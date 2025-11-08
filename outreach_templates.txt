@@ -1,0 +1,19 @@
+TEMPLATE 1: LINKEDIN DM
+
+Hi [First Name], quick question: How much time/week does your ops team spend on manual return processing? We built an AI that automates eligibility checks, photo analysis, and fraud detection. One DTC company cut processing time by 90%. Worth a 15-min chat?
+
+---
+
+TEMPLATE 2: EMAIL
+
+Subject: 80% of Your Returns Could Be Automated
+
+Hi [First Name], managing returns manually wastes time and money. We automate eligibility checks (30 sec vs 30 min), photo analysis (2 min vs 45 min), fraud detection, and CRM updates. One client saved $60K in their first month. Free 30-min audit? [Your Name] [Your Website]
+
+---
+
+TEMPLATE 3: COLD EMAIL
+
+Subject: Returns Processing Breakthrough
+
+Hi [First Name], returns processing is eating your team's time. We use AI to handle 80% automatically, flagging only edge cases for human review. Same-day refunds. Fraud detection. ROI typically 1,200%+. Demo? [Your Name]
